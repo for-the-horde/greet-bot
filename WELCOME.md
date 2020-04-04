@@ -1,6 +1,6 @@
 👋 Hello @new_user_name and welcome to the For the Horde community! We're so happy you're here! The purpose of this community is to give you a space to connect with other Minnesota-based tech and tech-adjacent folks. Want to be successful here? Try to give more than you take.
 
-✅ First things first. This is a community and we want this to be a safe and inclusive space for everyone. We expect you to abide by the For the Horde Code of Conduct in this Slack team AND while participating in any in-person or online For the Horde events. Please head on over to [http://git.io/v0d6b](http://git.io/v0d6b) to check it out.
+✅ First things first. This is a community and we want this to be a safe and inclusive space for everyone. We expect you to abide by the For the Horde Code of Conduct in this Slack team AND while participating in any in-person or online For the Horde events. Please head on over to https://git.io/v0d6b to check it out.
 
 Need to report Code of Conduct violation? The admins are listed at the bottom of the Code of Conduct. Snap a screenshot, report it.
 
