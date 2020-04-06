@@ -15,6 +15,7 @@ _Popular channels:_
 - #cohordeworking - when, where, why, who
 - #business - general business topics
 - #mental-health - talk about it
+- #event-share - a place to share cool events happening in Minnesota
 - #gigs - the ONLY place you can post/ask for jobs/gigs. They should be 100% available to Minnesota with no filter criteria, à la “might be interested in remote” Many people have notifications on for this channel, so 🧵any conversations beyond the initial post.
 
 _Fun, small channels:_
@@ -22,9 +23,8 @@ _Fun, small channels:_
 - #art-hackers
 - #biking
 - #awww
-- #pets
 - #sports
-- #outdoors
+- #nerdparenting
 
 🦠 And then there’s COVID-19, the big 🐘 in the room. #general is a COVID-19 free zone. This is a **strict** policy and we will actively police it. While we understand it’s a hard time for everyone, you can’t leave #general and we want people to have a refuge as it is impacting many of us indirectly or directly.
 
@@ -33,7 +33,7 @@ SO with that:
 #covid19-reference - fact based information sharing (links only, move discussions to #covid19-discuss)
 #covid19-memes - the ONLY place to allow covid related memes (that also adhere to the Code of Conduct)
 
-:spam: Spam posts, sales-y posts, self-promoting without community participation is not allowed. For the Horde is a community to participate in, not an audience to broadcast to. Admins will ask posts like this to be removed, especially in #general. If not removed promptly, we will remove it. If you're really sure the post benefits the audience more than yourself, be sure to put it in the most relevant channel.
+:spam: Spam posts, sales-y posts, self-promoting without community participation is not allowed. For the Horde is a community to **participate in**, not an audience to _broadcast to_. Admins will ask posts like this to be removed, especially in #general. If not removed promptly, we will remove it. If you're really sure the post benefits the audience more than yourself, be sure to put it in the most relevant channel.
 
 💌 Want to invite someone? Head over to #invites and kindly answer these questions:
 - Who would you like to invite? (name and email)
